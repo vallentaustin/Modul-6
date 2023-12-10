@@ -3,9 +3,9 @@ Praktikum Modul 6
 
 Dataset: RPS
 
-**ROCK**
-**PAPER**
-**SCISSORS**
+- **ROCK**
+- **PAPER**
+- **SCISSORS**
 
 
 
